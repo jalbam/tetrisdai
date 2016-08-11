@@ -14,3 +14,5 @@ Description
 Tetris clone game totally written in Java (1.6) with NetBeans. Highly configurable and modular.
 It will include pieces editor, multiplayer and more.
 It runs on any system with JRE 1.6 installed.
+
+Official web site: http://yasminoku.tetrisdai.org/ (mirror at http://www.dhtmlgames.com/tetrisdai/).
