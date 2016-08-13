@@ -1,10 +1,11 @@
-TetrisDAI
-========== by Joan Alba Maldonado (granvino@granvino.com)
+TetrisDAI 
+========== 
+by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Tetris clone game totally written in Java (1.6).
 
-Version: 0.2g
-Date: 1st May 2008 (approximately).
+Version: 0.2g 
+- Date: 1st May 2008 (approximately).
 
 You can donate at https://sourceforge.net/project/project_donations.php?group_id=215122
 
