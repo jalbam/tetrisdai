@@ -13,7 +13,7 @@ You can donate at https://sourceforge.net/project/project_donations.php?group_id
 ![ScreenShot](screenshot.jpg)
 
 
-Description
+## Description
 
 Open source Tetris clone (highly modular) written in Java 1.6 (aka Java SE 6) with NetBeans.
 
