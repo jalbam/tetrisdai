@@ -25,5 +25,9 @@ Official language is English but the code also includes Spanish and Catalan tran
 
 This game has been tested under Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X and others.
 
-
 Official web site: http://tetrisdai.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/tetrisdai/).
+
+
+## License
+
+This project can be used, reproduced, distributed and modified freely for any non-commercial purposes but always keeping the author's name and copyright clauses. Other than that, just use this project as you wish but never sell it!
