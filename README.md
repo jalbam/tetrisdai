@@ -23,7 +23,7 @@ The code is extremely modular and is ready to be modified and configured pretty 
 
 Official language is English but the code also includes Spanish and Catalan translations (as stated before, just by changing a variable, all the game will use the desired language).
 
-This game has been tested under Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X and others.
+This game has been tested under Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X, Haiku OS and others.
 
 Official web site: http://tetrisdai.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/tetrisdai/).
 
